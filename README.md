@@ -91,4 +91,15 @@ Check out my latest blog posts:
 
 ---
 
+### 🔧 Instruction
+
+Ensure you have enabled the display of private contributions in your GitHub profile settings:
+1. Go to your GitHub profile.
+2. Click on your profile picture in the top-right corner and select "Settings".
+3. In the left sidebar, select "Profile".
+4. Scroll down to the "Contribution settings" section.
+5. Check the box that says "Include private contributions on my profile".
+
+---
+
 Feel free to reach out if you'd like to collaborate or just chat about tech! 😊
