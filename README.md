@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Mahmoud Hatems **, a passionate and driven junior mobile app developer.
+Welcome to my GitHub profile! I'm **Mahmoud Hatem **, a passionate and driven junior mobile app developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoudhatems&color=blue&style=flat-square)
 
