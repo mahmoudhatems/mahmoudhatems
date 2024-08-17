@@ -4,24 +4,14 @@ Welcome to my GitHub profile! I'm **Mahmoud Hatem **, a passionate and driven ju
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoudhatems&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on a **Flutter mobile app**
+- 🔭 I’m currently a **CS Student**
 - 🌱 I’m currently learning **Jetpack Compose** and **advanced Flutter**
 - 👯 I’m looking to collaborate on **open-source Flutter and Compose projects**
 - 🤔 I’m looking for help with **integrating complex animations in Flutter**
 - 💬 Ask me about **mobile app development** and **UI/UX design**
 - 📫 How to reach me: [mahmoudhatemc@gmail.com](mailto:mahmoudhatemc@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love **hiking** and **photography**
-
----
-
-### 🚀 Projects
-
-Here are some of my notable projects:
-
-- [**Flutter Weather App**](https://github.com/mahmoudhatems/flutter-weather-app): A sleek and responsive weather app built with Flutter.
-- [**Compose News App**](https://github.com/mahmoudhatems/compose-news-app): An elegant news app using Jetpack Compose.
-- [**Game Finder**](https://github.com/mahmoudhatems/game-finder): An intuitive app to discover free-to-play games.
+- ⚡ Fun fact: I love **Football** and **Movies**
 
 ---
 
