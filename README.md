@@ -12,7 +12,7 @@ Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **Junior Mobi
 - 🤝 **Eager to Collaborate** on **Open-Source Projects** that challenge the norm.
 - ✨ **Seeking** insights on **Complex Animations** in Flutter to craft mesmerizing experiences.
 - 💬 **Reach Out** for discussions on **Mobile Development** and **UI/UX Design**.
-- 📩 **Contact**: [mahmoudhatemc@gmail.com](mailto:mahmoudhatemc@gmail.com)
+- 📩 **Contact**: [mahmoudhatem@gmail.com](mailto:mahmoudhatem11220@gmail.com)
 - 🏷️ **Pronouns**: **He/Him**
 - 🎉 **Fun Fact**: A dedicated **Football** enthusiast and **Movies** aficionado on an epic quest.
 
