@@ -46,7 +46,7 @@ Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **A passionat
 <a href="https://linkedin.com/in/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudhatems" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudhatems" height="30" width="40" /></a>
 <a href="https://instagram.com/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudhatems" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmoudhatems" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmoudhatems" height="30" width="40" /></a>
 </p>
 
 ---
