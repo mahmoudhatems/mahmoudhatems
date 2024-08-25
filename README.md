@@ -1,7 +1,11 @@
-# 🌟 Welcome to My GitHub Universe! 🌌
+<div align="center">
+  <blockquote>
+    <h2><strong>In the lab, cookin’ up...</strong></h2>
+  </blockquote>
+</div>
 
 <p align="center">
-  <img src="![carti](https://github.com/user-attachments/assets/357f052f-1760-4682-a23d-b661b52e05da) />
+  <img src="cartiKitty.jpg" alt="" />
 </p>
 
 Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **A passionate Mobile App Developer** on a mission to create extraordinary mobile experiences. Dive into my universe of code, where innovation meets passion, and let's embark on this journey together! 🚀
@@ -13,16 +17,8 @@ Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **A passionat
 - 🎓 **Currently** a **CS Student** pushing the frontiers of technology.
 - 📖 **Exploring** **Jetpack Compose** and **Advanced Flutter** to redefine app development.
 - 🤝 **Eager to Collaborate** on **Open-Source Projects** that challenge the norm.
-- ✨ **Seeking** insights on **Complex Animations** in Flutter to craft mesmerizing experiences.
-- 💬 **Reach Out** for discussions on **Mobile Development** and **UI/UX Design**.
-- 📩 **Contact**: [mahmoudhatem@gmail.com](mailto:mahmoudhatem11220@gmail.com)
-- 🏷️ **Pronouns**: **He/Him**
-- 🎉 **Fun Fact**: A dedicated **Football** enthusiast and **Movies** aficionado on an epic quest.
-
+- 💬 **Reach Out** for discussions on **Mobile Development** and **UI/UX Design** and **More..**.
 ---
-
-## 🛠️ My Skills & Tools
-
 ### 🧑‍💻 Programming Languages
 
 <p align="center">
@@ -57,12 +53,7 @@ Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **A passionat
 
 ## 📊 GitHub Insights
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudhatems&show_icons=true&theme=dark&title_color=ff66b2&hide_border=true&locale=en" alt="mahmoudhatems" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudhatems&show_icons=true&theme=dark&title_color=ff66b2&hide_border=true&locale=en" alt="mahmoudhatems" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudhatems&theme=highcontrast" alt="mahmoudhatems" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudhatems&theme=dark" alt="mahmoudhatems" /></p>
 
----
-
-## 🌌 Explore & Collaborate
-
-The universe of tech is vast and full of wonders. Dive into my repositories, join me in innovative projects, and let’s build something extraordinary. The stars are the limit, and I’m thrilled to explore them with you. 🚀✨
