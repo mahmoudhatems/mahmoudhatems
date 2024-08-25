@@ -8,14 +8,14 @@
   <img src="cartiKitty.jpg" alt="" />
 </p>
 
-Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **A passionate Mobile App Developer** on a mission to create extraordinary mobile experiences. Dive into my universe of code, where innovation meets passion, and let's embark on this journey together! 🚀
+Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**,  **A passionate Mobile App Developer** on a mission to create extraordinary mobile experiences. Dive into my universe of code, where innovation meets passion, and let's embark on this journey together! 🚀
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **Currently** a **CS Student** pushing the frontiers of technology.
-- 📖 **Exploring** **Jetpack Compose** and **Advanced Flutter** to redefine app development.
+- 📖 **Exploring** **Jetpack Compose** and **Flutter** to redefine app development.
 - 🤝 **Eager to Collaborate** on **Open-Source Projects** that challenge the norm.
 - 💬 **Reach Out** for discussions on **Mobile Development** and **UI/UX Design** and **More..**.
 ---
