@@ -1,7 +1,10 @@
 # 🌟 Welcome to My GitHub Universe! 🌌
 
-Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **Junior Mobile App Developer** on a mission to create extraordinary mobile experiences. Dive into my universe of code, where innovation meets passion, and let's embark on this journey together! 🚀
+<p align="center">
+  <img src="![carti](https://github.com/user-attachments/assets/357f052f-1760-4682-a23d-b661b52e05da) />
+</p>
 
+Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **A passionate Mobile App Developer** on a mission to create extraordinary mobile experiences. Dive into my universe of code, where innovation meets passion, and let's embark on this journey together! 🚀
 
 ---
 
@@ -42,39 +45,21 @@ Hello and welcome to my digital galaxy! I’m **Mahmoud Hatem**, a **Junior Mobi
 
 ---
 
-## 🌐 Connect with Me
-
+### Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mahmoudhatems" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mahmoudhatem/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/mahmoudhatem/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://mahmoudhatem.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website" />
-  </a>
+<a href="https://linkedin.com/in/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudhatems" height="30" width="40" /></a>
+<a href="https://fb.com/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudhatems" height="30" width="40" /></a>
+<a href="https://instagram.com/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudhatems" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mahmoudhatems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmoudhatems" height="30" width="40" /></a>
 </p>
 
 ---
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudhatems&count_private=true&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhatems&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudhatems&show_icons=true&theme=dark&title_color=ff66b2&hide_border=true&locale=en" alt="mahmoudhatems" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudhatems&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudhatems&theme=dark&column=4&no_frame=true" alt="GitHub Trophies" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudhatems&theme=highcontrast" alt="mahmoudhatems" /></p>
 
 ---
 
